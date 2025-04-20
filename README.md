@@ -22,5 +22,3 @@
 * **Open the bootstraper your using (If you dont have one check out this video)**
 * **FastFlags/Engine > Fastflag editor > Add new > Import fflag > Paste/import Fastflag**
 * **Now you can close the bootstraper and test the fastflags out!**
-
-* hihihi
